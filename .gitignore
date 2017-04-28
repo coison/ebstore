@@ -10,3 +10,17 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+#.idea/workspace.xml
+ebstore-dao/src/test/
+ebstore-model/src/test/
+src/main/resources/static/
+src/main/resources/templates/
+
+.idea/*
+.mvn/*
+*.iml
+.log
+out
+gen
+target
+logs
