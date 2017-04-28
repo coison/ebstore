@@ -16,8 +16,8 @@ ebstore-model/src/test/
 src/main/resources/static/
 src/main/resources/templates/
 
-/.idea/*
-/.mvn/*
+.idea/*
+.mvn/*
 *.iml
 .log
 out
